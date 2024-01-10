@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc56b188156a34542b82c8265922fe15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ContentContainer: {instanceID: 0}
+  - m_ItemPrefab: {instanceID: 0}
+  - queueContents: {instanceID: 0}
+  - TotalText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
